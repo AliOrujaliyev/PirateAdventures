@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/ali/Desktop/Новая папка"/>
+			<item value="/Users/ali/Desktop"/>
+			<item value="/Users/ali/Downloads/00000030123012"/>
+			<item value="/Users/ali/Downloads/00000000"/>
+			<item value="/Users/ali/Downloads/00001"/>
+			<item value="/Users/ali/Downloads/kenney_piratepack/PNG/Retina/Ship parts"/>
+			<item value="/Users/ali/Downloads/kenney_piratepack/PNG/Retina/Effects"/>
+			<item value="/Users/ali/Downloads/kenney_piratepack/PNG/Retina/Ships"/>
+			<item value="/Users/ali/Downloads/2H-4.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/UI/src"/>
+			<item value="/Users/ali/Downloads/2H-4.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/UI/bin"/>
+			<item value="/Users/ali/Downloads/2H-4.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/UI/images"/>
+			<item value="/Users/ali/Downloads/2H-2.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/src"/>
+			<item value="/Users/ali/Downloads/2H-3.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/src"/>
+			<item value="/Users/ali/Downloads/2H.ChickenInvadersButPIRATES-alpha/src/ChickenInvadersBUTPIRATES/src"/>
+		</list>
+	</section>
+</section>
